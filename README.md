@@ -53,4 +53,4 @@ Another modification can be made based in user input. For example, if you wanted
 
 The possibilities are endless!
 
-**Election_Audit script can be found [here](https://github.com/amylio/Election_Analysis/blob/main/PyPoll_Challenge.py)**
+
