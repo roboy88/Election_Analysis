@@ -17,12 +17,11 @@ The data provided was in .csv format and had more than 350,000 results. In order
 
 ## Resources
 
-* **Data Source:** [election_results.csv](https://github.com/amylio/Election_Analysis/blob/main/Resources/election_results.csv)
 * **Software:** Python version 3.7.6, VS Code version 1.51.1
 
 ## Election-Audit Results
 
-The analysis showed that there were a total of 369,711 votes cast in the election. The results by county (reference county calculation script [here](https://github.com/amylio/Election_Analysis/blob/main/Resources/Source_Code_Counties.png)):
+The analysis showed that there were a total of 369,711 votes cast in the election.
 
 * Jefferson: 10.5% (38,855)
 * Denver: 82.8% (306,055)
